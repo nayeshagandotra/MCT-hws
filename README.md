@@ -1,1 +1,1 @@
-# MCT-hws
+# MCT-hws- FOR HW2, PLEASE SEE FILE hw2-q4.ipynb (for q4 and a5)
